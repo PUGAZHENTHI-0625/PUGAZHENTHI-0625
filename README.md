@@ -1,109 +1,163 @@
-<!-- ================= HEADER ================= -->
+<div align="center">👋 Hi, I'm Pugazhenthi R
 
-<div align="center">
+💻 Computer Science & Engineering Student | Front-End Developer | Full-Stack Learner
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:0066FF,65:8A2BE2,100:FF00FF&height=250&section=header&text=PUGAZHENTHI%20R&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=B.E.%20Computer%20Science%20%7C%20Software%20Developer&descAlignY=62&descSize=20&animation=fadeIn"/>
+<p>
+  <a href="https://github.com/PUGHAZHENTHI-0625">
+    <img src="https://img.shields.io/badge/GitHub-PUGHAZHENTHI--0625-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/pugazhenthi-rajendran-105725294">
+    <img src="https://img.shields.io/badge/LinkedIn-Pugazhenthi%20R-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://pugazhenthi0625-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify">
+  </a>
+</p></div>---
 
-<br>
+👨‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student+%F0%9F%92%BB;Front-End+Developer+%F0%9F%8E%A8;Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;Learning+%7C+Building+%7C+Growing+%E2%9C%A8" />
+I'm an enthusiastic Computer Science and Engineering student passionate about front-end development, responsive design, problem-solving, and continuous learning.
 
-<br><br>
+I'm currently pursuing my B.E. in Computer Science and Engineering and interested in building practical, user-friendly web applications.
 
-<!-- SOCIAL BUTTONS -->
-
-<a href="https://github.com/PUGAZHENTHI-0625">
-<img src="https://img.shields.io/badge/GITHUB-PUGHAZHENTHI--0625-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pugazhenthi-rajendran-105725294">
-<img src="https://img.shields.io/badge/LINKEDIN-PUGAZHENTHI%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pugazhprivate@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-PUGAZHPRIVATE%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://pugazhenthi0625-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-
-<br><br>
-
-<!-- PROFILE COUNTERS -->
-
-<img src="https://komarev.com/ghpvc/?username=PUGAZHENTHI-0625&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/PUGAZHENTHI-0625?label=FOLLOWERS&style=for-the-badge&color=00F5FF"/>
-
-<img src="https://img.shields.io/github/stars/PUGAZHENTHI-0625?label=TOTAL%20STARS&style=for-the-badge&color=FF00FF"/>
-
-</div>
-
-<br>
+- 🎓 B.E. Computer Science and Engineering
+- 💻 Interested in Front-End & Full-Stack Development
+- 🌱 Currently improving my development and problem-solving skills
+- 🚀 Passionate about building real-world projects
+- 🤝 Open to learning, collaborating, and growing in the tech industry
 
 ---
 
-<!-- ================= ABOUT ================= -->
+🎓 Education
 
-<h2>🔥 About Me</h2>
+Sri Shanmugha College of Engineering and Technology
+B.E. Computer Science and Engineering | 2023 – 2027
+CGPA: 8.00
 
-<table>
-<tr>
+Model Higher Secondary School, Virugavoor, Kallakurichi
+Higher Secondary Education | 2022 – 2023
+Percentage: 75%
 
-<td width="58%" valign="top">
+---
 
-### 👨‍💻 Who Am I?
+💻 Tech Stack
 
-I'm **Pugazhenthi R**, a passionate **Computer Science & Engineering student** who enjoys building modern and responsive web applications.
+Programming Languages
 
-I'm interested in **Front-End Development, Full-Stack Development, Responsive Design and Problem Solving**.
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>Web Development
 
-I believe in:
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>Backend & Database
 
-> 🚀 Learning new technologies  
-> 💡 Turning ideas into projects  
-> 🧠 Improving through challenges  
-> 🌱 Growing every day
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>Tools
 
-<br>
+<p>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>---
 
-### ⚡ What I Do
+🚀 Featured Projects
 
-- 💻 Build responsive web applications
-- 🎨 Create interactive user interfaces
-- 🌐 Explore full-stack development
-- 🧠 Practice problem solving
-- 🚀 Build real-world academic projects
-- 📚 Continuously learn new technologies
+🏫 College Event Management Hub
 
-</td>
+Tech Stack: React.js • Node.js • Express.js • MongoDB
 
-<td width="42%" valign="top">
+A full-stack college event management application designed to manage events and users efficiently.
 
-### ⚡ Quick Profile
+Key Features:
 
-<br>
+- 🔹 Event creation, registration, modification and deletion
+- 🔹 RESTful APIs and CRUD operations
+- 🔹 Admin and Student dashboards
+- 🔹 Gmail OTP authentication using Nodemailer
+- 🔹 Dynamic event data handling
+- 🔹 Responsive React.js components
+- 🔹 MongoDB integration
 
-| | |
-|---|---|
-| 👤 **Name** | Pugazhenthi R |
-| 🎓 **Degree** | B.E. CSE |
-| 🏫 **College** | Sri Shanmugha College |
-| 📊 **CGPA** | 8.00 |
-| 📍 **Location** | Tamil Nadu |
-| 💻 **Focus** | Web Development |
-| 🚀 **Role** | Student Developer |
+---
 
-<br>
+🌐 Personal Portfolio Website
 
-### 🎯 Current Focus
+Tech Stack: HTML5 • CSS3 • JavaScript
 
-```text
-Frontend Development
-        ↓
-Full-Stack Development
-        ↓
-Real-World Projects
-        ↓
-Software Developer
+A responsive personal portfolio website showcasing my skills and projects.
+
+Features:
+
+- ✨ Interactive animations
+- 📱 Responsive design
+- 🔗 Smooth scrolling
+- 📩 Functional contact form
+
+🔗 Live Portfolio:
+https://pugazhenthi0625-portfolio.netlify.app
+
+---
+
+📜 Certifications
+
+NPTEL
+
+- ☁️ Cloud Computing
+- 🤖 Introduction to Machine Learning
+- 💻 Operating Systems
+
+---
+
+🏆 Achievements & Activities
+
+- ✅ Completed NPTEL certifications in Cloud Computing and Introduction to Machine Learning
+- ✅ Developed a full-stack College Event Management Hub
+- ✅ Created and deployed a responsive personal portfolio website
+- ✅ Continuously improving technical and problem-solving skills
+
+---
+
+🤝 Soft Skills
+
+- 💬 Communication
+- 🤝 Teamwork
+- 🧠 Problem Solving
+- ⏱️ Time Management
+- 🔄 Adaptability
+
+---
+
+📊 GitHub Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PUGHAZHENTHI-0625&show_icons=true&hide_border=true&rank_icon=github" height="180"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUGHAZHENTHI-0625&layout=compact&hide_border=true" height="180"></div>---
+
+📈 GitHub Streak
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=PUGHAZHENTHI-0625&hide_border=true" /></div>---
+
+🎯 My Goal
+
+«To become a skilled software developer by continuously learning new technologies, building meaningful projects, and gaining real-world experience.»
+
+---
+
+📫 Connect With Me
+
+<p align="center"><a href="mailto:pugazhprivate@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a><a href="https://www.linkedin.com/in/pugazhenthi-rajendran-105725294">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a><a href="https://github.com/PUGHAZHENTHI-0625">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a></p>---
+
+<div align="center">✨ "Learning
