@@ -3,8 +3,8 @@
 💻 Computer Science & Engineering Student | Front-End Developer | Full-Stack Learner
 
 <p>
-  <a href="https://github.com/PUGHAZHENTHI-0625">
-    <img src="https://img.shields.io/badge/GitHub-PUGHAZHENTHI--0625-181717?style=for-the-badge&logo=github">
+  <a href="https://github.com/PUGAZHENTHI-0625">
+    <img src="https://img.shields.io/badge/GitHub-PUGAZHENTHI--0625-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/pugazhenthi-rajendran-105725294">
     <img src="https://img.shields.io/badge/LinkedIn-Pugazhenthi%20R-0A66C2?style=for-the-badge&logo=linkedin">
@@ -138,11 +138,11 @@ NPTEL
 
 📊 GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PUGHAZHENTHI-0625&show_icons=true&hide_border=true&rank_icon=github" height="180"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUGHAZHENTHI-0625&layout=compact&hide_border=true" height="180"></div>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PUGAZHENTHI-0625&show_icons=true&hide_border=true&rank_icon=github" height="180"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUGAZHENTHI-0625&layout=compact&hide_border=true" height="180"></div>---
 
 📈 GitHub Streak
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=PUGHAZHENTHI-0625&hide_border=true" /></div>---
+<div align="center"><img src="https://streak-stats.demolab.com?user=PUGAZHENTHI-0625&hide_border=true" /></div>---
 
 🎯 My Goal
 
